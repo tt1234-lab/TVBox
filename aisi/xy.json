@@ -1,6 +1,6 @@
 [{
 	"name": "小雅",
-	"server": "http://ttxy.xswl.cf/",
+	"server": "http://alist.xiaoya.pro/",
 	"startPage": "/",
 	"showAll": false,
 	"search": true,
@@ -14,7 +14,7 @@
 	}
 },{
 	"name": "TT",
-	"server": "http://ttalist.xswl.cf/",
+	"server": "https://aisi.asyyds.repl.co/",
 	"startPage": "/",
 	"showAll": false,
 	"search": true,
