@@ -1,0 +1,60 @@
+[{
+	"name": "小雅",
+	"server": "http://ttxy.xswl.cf/",
+	"startPage": "/",
+	"showAll": false,
+	"search": true,
+	"params": {
+		"/abc": {
+			"password": "123"
+		},
+		"/abc/abc": {
+			"password": "123"
+		}
+	}
+},{
+	"name": "TT",
+	"server": "http://ttalist.xswl.cf/",
+	"startPage": "/",
+	"showAll": false,
+	"search": true,
+	"params": {
+		"/abc": {
+			"password": "123"
+		},
+		"/abc/abc": {
+			"password": "123"
+		}
+	}
+}
+,{
+	"name": "镇帝",
+	"server": "https://zdy.zddd.repl.co/",
+	"startPage": "/",
+	"showAll": false,
+	"search": true,
+	"params": {
+		"/abc": {
+			"password": "123"
+		},
+		"/abc/abc": {
+			"password": "123"
+		}
+	}
+}
+,{
+	"name": "九辞",
+	"server": "https://jchy.jiucij.repl.co/",
+	"startPage": "/",
+	"showAll": false,
+	"search": true,
+	"params": {
+		"/abc": {
+			"password": "123"
+		},
+		"/abc/abc": {
+			"password": "123"
+		}
+	}
+}
+]

@@ -1,0 +1,15 @@
+[{
+	"name": "TT",
+	"server": "http://ttalist.xswl.cf/",
+	"startPage": "/",
+	"showAll": false,
+	"search": true,
+	"params": {
+		"/abc": {
+			"password": "123"
+		},
+		"/abc/abc": {
+			"password": "123"
+		}
+	}
+}]
