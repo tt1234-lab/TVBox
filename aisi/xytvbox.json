@@ -6,7 +6,7 @@
     "drives": [
         {
             "name": "TTAlist",
-            "server": "http://ttxy.xswl.cf/",
+            "server": "http://alist.xiaoya.pro/",
             "type": "alist"
         },
         {
@@ -141,7 +141,7 @@
 	    "searchable":1,
 	    "quickSearch":1,
 	    "filterable":0,
-	    "ext":"http://ttftp.xswl.cf/aisi/xy.json"
+	    "ext":"https://raw.githubusercontent.com/tt1234-lab/TVBox/main/aisi/xy.json"
 	},
 	{
             "key": "csp_新视觉",
